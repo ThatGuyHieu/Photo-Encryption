@@ -1,5 +1,5 @@
 # Photo-Encryption
  created by: Brandon Nguyen
-![](decode.png)
+![decode](decode.PNG)
 
 ## Summary
