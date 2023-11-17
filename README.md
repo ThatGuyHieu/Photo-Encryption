@@ -22,5 +22,13 @@ cd Photo-Encryption
 make
 ```
 
+## Run
+
+```
+./Encrypt < input image > < output image > < 16 size bitstring >
+example:
+./Encrypt input-file.png output-file.png 1011011000110110
+```
+
 
 
